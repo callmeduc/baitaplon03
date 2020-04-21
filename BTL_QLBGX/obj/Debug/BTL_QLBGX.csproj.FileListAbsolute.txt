@@ -1,0 +1,191 @@
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\BTL_QLBGX.dll.config
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\BTL_QLBGX.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\BTL_QLBGX.pdb
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\csc.exe
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\csc.exe.config
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\csc.rsp
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\csi.exe
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\csi.exe.config
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\csi.rsp
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Console.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\vbc.exe
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\vbc.rsp
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\obj\Debug\BTL_QLBGX.csprojAssemblyReference.cache
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\obj\Debug\BTL_QLBGX.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\obj\Debug\BTL_QLBGX.csproj.CopyComplete
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\obj\Debug\BTL_QLBGX.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\obj\Debug\BTL_QLBGX.pdb
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\System.Web.Http.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\System.Web.Http.xml
+C:\Users\Admin\Dropbox\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\System.Web.Http.WebHost.xml
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\BTL_QLBGX.dll.config
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\BTL_QLBGX.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\BTL_QLBGX.pdb
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\csc.exe
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\csc.exe.config
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\csc.rsp
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\csi.exe
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\csi.exe.config
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\csi.rsp
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.AppContext.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Console.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.IO.Compression.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Security.Claims.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.ValueTuple.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\vbc.exe
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\vbc.exe.config
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\vbc.rsp
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\VBCSCompiler.exe
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\Newtonsoft.Json.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\System.Net.Http.Formatting.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\System.Web.Http.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\System.Web.Http.WebHost.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\Newtonsoft.Json.xml
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\System.Net.Http.Formatting.xml
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\System.Web.Http.xml
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\System.Web.Http.WebHost.xml
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\obj\Debug\BTL_QLBGX.csproj.CoreCompileInputs.cache
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\obj\Debug\BTL_QLBGX.csproj.CopyComplete
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\obj\Debug\BTL_QLBGX.dll
+C:\Users\Duc\Downloads\BTL net\BTL .NET2\BTL_QLBGX\BTL_QLBGX\obj\Debug\BTL_QLBGX.pdb
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\BTL_QLBGX.dll.config
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\BTL_QLBGX.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\BTL_QLBGX.pdb
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\csc.exe
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\csc.exe.config
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\csc.rsp
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\csi.exe
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\csi.exe.config
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\csi.rsp
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.AppContext.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Console.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.IO.Compression.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Security.Claims.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.ValueTuple.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\vbc.exe
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\vbc.exe.config
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\vbc.rsp
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\VBCSCompiler.exe
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\Newtonsoft.Json.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\System.Net.Http.Formatting.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\System.Web.Http.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\System.Web.Http.WebHost.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\Newtonsoft.Json.xml
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\System.Net.Http.Formatting.xml
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\System.Web.Http.xml
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\System.Web.Http.WebHost.xml
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\obj\Debug\BTL_QLBGX.csproj.CoreCompileInputs.cache
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\obj\Debug\BTL_QLBGX.csproj.CopyComplete
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\obj\Debug\BTL_QLBGX.dll
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\obj\Debug\BTL_QLBGX.pdb
+C:\Users\Duc\Desktop\Kỳ 1\Net 2\BTL_QLBGX\BTL_QLBGX\obj\Debug\BTL_QLBGX.csprojAssemblyReference.cache

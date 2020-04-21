@@ -1,0 +1,127 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Layout.master.cs" Inherits="BTL_QLBGX.form.Layout" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>W3.CSS Template</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../style/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="../style/css/w3.min.css" />
+    <link rel="stylesheet" href="../style/css/css/all.css" />
+    <link rel="stylesheet" href="../style/css/fontRaleway.min.css" />
+    <link rel="stylesheet" href="../style/css/custom.css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style>
+        html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+        .color-errors { color: red; }
+        .color-success { color: green;}
+        .w3-main {
+            margin-bottom:50px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server" onkeypress="return event.key != 'Enter';">
+        <div>
+            <!-- Top container -->
+            <div class="w3-bar w3-top w3-black w3-large" style="z-index:4">
+                <button class="w3-bar-item w3-button w3-hide-large w3-hover-none w3-hover-text-light-grey" onclick="w3_open();"><i class="fa fa-bars"></i>  Menu</button>
+                <span class="w3-bar-item w3-right">HỆ THỐNG QUẢN LÝ THÔNG TIN</span>
+            </div>
+            <!-- Sidebar/menu -->
+            <nav class="w3-sidebar w3-collapse w3-white w3-animate-left" style="z-index:3;width:300px;" id="mySidebar"><br>
+              <div class="w3-container w3-row">
+                <div class="w3-col s4">
+                  <img src="/images/avatar2.png" class="w3-circle w3-margin-right" style="width:46px">
+                </div>
+                <div class="w3-col s8 w3-bar">
+                  <span>Welcome, <strong>Mike</strong></span><br>
+                  <a href="#" class="w3-bar-item w3-button"><i class="fa fa-envelope"></i></a>
+                  <a href="#" class="w3-bar-item w3-button"><i class="fa fa-user"></i></a>
+                  <a href="#" class="w3-bar-item w3-button"><i class="fa fa-cog"></i></a>
+                </div>
+              </div>
+              <hr>
+              <div class="w3-container" style="background: #33bb38;color: #fff;">
+                <h5 class="text-uppercase font-weight-bold">-*- Danh mục chức năng -*-</h5>
+              </div>
+              <div class="w3-bar-block">
+                <a href="#" class="w3-bar-item w3-button w3-padding-16 w3-hide-large w3-dark-grey w3-hover-black" onclick="w3_close()" title="close menu"><i class="fa fa-remove fa-fw"></i>  Close Menu</a>
+                <a href="/form/home.aspx" class="w3-bar-item w3-button w3-padding w3-navbar"><i class="fa fa-home"></i> Trang chủ</a>
+                <a href="/form/accesscard.aspx" class="w3-bar-item w3-button w3-padding w3-navbar"><i class="fas fa-graduation-cap"></i> Thẻ gửi xe</a>
+                <a href="/form/users.aspx" class="w3-bar-item w3-button w3-padding w3-navbar"><i class="fa fa-users fa-fw"></i> Tài khoản</a>
+                <a href="/form/parking.aspx" class="w3-bar-item w3-button w3-padding w3-navbar"><i class="fa fa-bullseye fa-fw"></i> QL lượt gửi</a>
+                <a href="/form/settings.aspx" class="w3-bar-item w3-button w3-padding w3-navbar"><i class="fas fa-plus-circle"></i> Cài đặt</a>
+              </div>
+            </nav>
+            
+            <!-- Overlay effect when opening sidebar on small screens -->
+            <div class="w3-overlay w3-hide-large w3-animate-opacity" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                
+            </asp:ContentPlaceHolder>
+            <!-- Footer -->
+            <%--<footer class="w3-container w3-padding-16" style="z-index: 3;position: fixed;width: 100%;bottom: 0;background: #b8dfe4 !important;">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-sm-3 text-center" style="color:blue;">
+                            <div class="font-weight-bold ">HUMG</div>
+                            <div>www.humg.edu.vn</div>
+                        </div>
+                        <div class="col-sm-9">
+                            <div>BẢN QUYỀN THUỘC VỀ KHOA CÔNG NGHỆ THÔNG TIN  ĐẠI HỌC MỎ ĐỊA CHẤT</div>
+                            <div>Địa chỉ: Tầng 7 nhà C12 số 18 Phố Viên - Phường Đức Thắng - Bắc Từ Liêm - Hà Nội</div>
+                        </div>
+                    </div>
+                </div>
+            </footer>--%>
+        </div>
+    </form>
+    <script>
+    // Get the Sidebar
+    var mySidebar = document.getElementById("mySidebar");
+
+    // Get the DIV with overlay effect
+    var overlayBg = document.getElementById("myOverlay");
+
+    // Toggle between showing and hiding the sidebar, and add overlay effect
+    function w3_open() {
+      if (mySidebar.style.display === 'block') {
+        mySidebar.style.display = 'none';
+        overlayBg.style.display = "none";
+      } else {
+        mySidebar.style.display = 'block';
+        overlayBg.style.display = "block";
+      }
+    }
+
+    // Close the sidebar with the close button
+    function w3_close() {
+      mySidebar.style.display = "none";
+      overlayBg.style.display = "none";
+    }
+    </script>
+    <script>
+        const pathname = window.location.pathname.toLowerCase()
+        const listNavbar = document.getElementsByClassName("w3-navbar")
+        for (let i = 0; i < listNavbar.length; i++) {
+            const href = listNavbar[i].getAttribute("href")
+            if (href === pathname) {
+                listNavbar[i].classList.add("w3-blue")
+            }
+        }
+    </script>
+    <script src="../style/js/jquery.min.js"></script>
+    <script src="../style/js/boostrap.min.js"></script>
+    <script src="../style/js/popper.min.js"></script>
+    <script>
+        $(function () {
+          $('[data-toggle="tooltip"]').tooltip()
+        })
+    </script>
+</body>
+</html>

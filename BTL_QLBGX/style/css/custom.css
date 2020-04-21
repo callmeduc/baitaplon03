@@ -1,0 +1,50 @@
+﻿.alert-yellow {
+    background-color: #dcdc2d;
+}
+.alert-blue {
+    background-color: #00BCD4;
+}
+.alert-info {
+    background-color: #009688;
+}
+.alert-warning {
+    background-color: #FF9800;
+}
+.c-black {
+    color: black;
+    font-weight: bold;
+}
+.align-items-center {
+    align-items: center;
+}
+.justify-content-between {
+    justify-content: space-between;
+}
+.displayFlex {
+    display: flex;
+}
+.collap-header-number {
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    border: 2px solid #000;
+    border-radius: 100%;
+    font-weight: bold;
+    font-size: 20px;
+}
+.bg-tr-table {
+    background-color: #33bb38 !important;
+    color: #fff !important;
+}
+.bg-dodgerblue-tr-table {
+    background-color: dodgerblue !important;
+    color: #fff !important;
+}
+.c_point_sum {
+    color: #FF9800;
+    font-weight: bold;
+}
+.fs-32{
+    font-size:32px !important;
+}
